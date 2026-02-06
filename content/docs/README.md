@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 # Documentation
  
 This folder contains customer-facing documentation rendered by the Supervity application.
@@ -165,4 +170,5 @@ Conventions:
 - Files should include frontmatter (`title`, `description`).
 - Use `kebab-case.md` filenames (optionally `01-...md` for ordered sequences).
 - `README.md` and files prefixed with `_` are ignored by the docs index.
+
 
